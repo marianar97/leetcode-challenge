@@ -17,4 +17,4 @@ An algorithm approach to solve problems with secuences by mantaining a moving "w
 4. Slide: continue sliding the window until the end of the sequence
 5. Result: return result
 
-Sources: (Mastering Sliding Window Techniques)<https://medium.com/@rishu__2701/mastering-sliding-window-techniques-48f819194fd7>
+Sources: [Mastering Sliding Window Techniques](https://medium.com/@rishu__2701/mastering-sliding-window-techniques-48f819194fd7)
